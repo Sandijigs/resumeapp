@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name": "Sandra Idjighere",
+    "occupation": "Web3 Developer & Blockchain Enthusiast",
+    "description": "Building the future of decentralized applications",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Sandra!A Full-Stack Engineer with a passion for building innovative web and mobile solutions. I've had the privilege of working with several startups and top financial institutions to help them scale and succeed. Along my journey, I discovered my deep interest in emerging technologies, leading me to expand my expertise into Web3 development by building smart contracts for decentralized applications and integrating AI agents into modern applications.",
+    "contactmessage": "Get in touch with me ",
+    "email": "idjigheresandra@gmail.com",
+    "phone": "+234 810 833 3372",
+    "address": {
+      "street": "Lagos, Nigeria",
+      "city": "Lagos",
+      "state": "Lagos",
+      "zip": "00000"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1xiqssqdIcusZzqJFv8bYAoBme8rli-SJ/view?usp=drive_link",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/oghenerukevwe-idjighere-001079146/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/Sandijigs",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://x.com/JighereS",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "discord",
+        "url": "/discord.gg/Ue94bNEz",
+        "className": "fa fa-discord"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Federal University of Agriculture Abeokuta",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "React Native",
+        "level": "100%"
+      },
+      {
+        "name": "Node.js",
+        "level": "100%"
+      },
+      {
+        "name": "Express.js",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Solidity",
+        "level": "90%"
+      },
+      {
+        "name": "Hardhat",
+        "level": "85%"
+      },
+      {
+        "name": "Foundry",
+        "level": "70%"
+      },
+      {
+        "name": "Ethers.js",
+        "level": "90%"
+      },
+      {
+        "name": "Web3.js",
+        "level": "80%"
+      },
+      {
+        "name": "Chainlink (Oracles)",
+        "level": "75%"
+      },
+      {
+        "name": "Uniswap SDK/Contracts",
+        "level": "70%"
+      },
+      {
+        "name": "Smart Contract Testing",
+        "level": "85%"
+      },
+      {
+        "name": "OpenAI",
+        "level": "80%"
+      },
+      {
+        "name": "Move (Cairo)",
+        "level": "70%"
+      },
+
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fundiverse(Solidity,hardhat,viem,ethers.js,nextjs)",
+        "category": "",
+        "image": "fundiverseimage.png",
+        "url": "https://fundi-verse-project.vercel.app/"
+      },
+      {
+        "title": "TrexieFood (React JS, Move(cairo),openai)",
+        "category": "",
+        "image": "trexiefood.png",
+        "url": "https://trexfoodai.web.app/"
+      },
+      {
+        "title": "Operations Dashboard (React JS,Vite,tailwind,chart.js,)",
+        "category": "",
+        "image": "operationsAdminOxygen.png",
+        "url": "https://portfolio-app-silk-six.vercel.app/"
+      },
+      {
+        "title": "Analytics Dashboard (React JS,Vite,tailwind,chart.js,)",
+        "category": "",
+        "image": "analyticsdashboard.png",
+        "url": "https://moniepoint-rho.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sandra is absolutely excellent, her depth of knowledge & her mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Seyi Okutubo"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Egor Lawretta"
+      }
+    ]
+  }
+}
